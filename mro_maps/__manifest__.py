@@ -21,7 +21,7 @@ Support following feature:
     'license': 'AGPL-3',
     'website': 'http://codup.com',
     'sequence': 0,
-    'depends': ['asset_map','mro','web_maps'],
+    'depends': ['asset_map','mro','web_map'],
     'data': [
         'views/mro_workorder_view.xml',
     ],
